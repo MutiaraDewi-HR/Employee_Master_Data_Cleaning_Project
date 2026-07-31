@@ -1,5 +1,6 @@
-# Employee_Master_Data_Cleaning_Project
-This project uses a fictional (dummy) dataset created for portfolio purposes. It simulates real-world HR employee master data, including data cleaning, validation, and standardization processes. No actual company or employee data is used, ensuring full confidentiality and data privacy.
+This project demonstrates the process of cleaning, validating, and standardizing HR employee master data using Microsoft Excel.
+
+The project uses a fictional (dummy) dataset created for portfolio purposes. No actual company or employee data is included.
 
 ## ⭐ Key Features
 
@@ -115,4 +116,4 @@ This project demonstrates the process of cleaning, validating, and standardizing
 
 ## 🔒 Data Privacy
 
-This project uses a fictional (dummy) dataset created for portfolio purposes. No actual company or employee data is included. All information has been anonymized to protect confidentiality and privacy.
+This project uses a fictional (dummy) dataset created for portfolio purposes. All information has been anonymized to protect confidentiality and privacy.
